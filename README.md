@@ -1,2 +1,8 @@
-# advent-of-code-2019-day-4
-https://adventofcode.com/2019/day/4
+# Advent of Code 2019 Day 4: Secure Container
+
+## Running the solution
+
+    $ yarn install
+
+    $ yarn start
+
